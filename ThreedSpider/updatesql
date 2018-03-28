@@ -1,0 +1,6 @@
+更新SQL
+select count(*) from pre_forum_thread where fid='39';
+select count(*) from pre_forum_post where fid='39'
+update pre_forum_forum set threads='230',posts='230' where fid='2'
+
+select * from pre_forum_post_tableid order by pid desc

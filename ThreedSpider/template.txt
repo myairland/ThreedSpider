@@ -1,0 +1,2 @@
+INSERT INTO `pre_forum_post` (`pid`, `fid`, `tid`, `first`, `author`, `authorid`, `subject`, `dateline`, `message`, `useip`, `port`, `invisible`, `anonymous`, `usesig`, `htmlon`, `bbcodeoff`, `smileyoff`, `parseurloff`, `attachment`, `rate`, `ratetimes`, `status`, `tags`, `comment`, `replycredit`, `position`) VALUES
+(1,	2,	1,	1,	'admin',	1,	'测试帖子',	1521442977,	'[b]月月月月月月月月[/b]\r\n',	'27.223.78.171',	46933,	0,	0,	1,	0,	0,	-1,	0,	0,	0,	0,	0,	'',	0,	0,	1);
